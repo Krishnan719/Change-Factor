@@ -7,3 +7,5 @@ Turn on the Internet
 Select the change factor application
 
 Invite your friends and post accept try to send a message
+
+When the message is sent there should be a green tick be shown

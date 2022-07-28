@@ -8,4 +8,6 @@ Select the change factor application
 
 Invite your friends and post accept try to send a message
 
-When the message is sent there should be a green tick be shown
+When the message is sent there should be two blue tick be shown
+
+If the message is not read there should be two white tick be shown

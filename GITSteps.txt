@@ -13,3 +13,5 @@ When the message is sent there should be two blue tick be shown
 If the message is not read there should be two white tick be shown
 
 Ensure the user message is shown to the user on successful transaction when paid through whatsapp
+
+When the payment is failed ensure it's reversed on time
